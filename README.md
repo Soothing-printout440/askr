@@ -203,6 +203,10 @@ You can use askr MCP tools to search and ask an external AI to assist with your 
 5. Use check(id, showFull: true) when you need the full untruncated answer
 ```
 
+## Acknowledgements
+
+Thanks to the [LinuxDo community](https://linux.do) for the support!
+
 ## License
 
 MIT

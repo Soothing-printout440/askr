@@ -232,6 +232,10 @@ You can use askr MCP tools to search and ask an external AI to assist with your 
 5. Use check(id, showFull: true) when you need the full untruncated answer
 ```
 
+## 致谢
+
+感谢 [LinuxDo 社区](https://linux.do) 的支持！
+
 ## License
 
 MIT
