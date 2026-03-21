@@ -1,0 +1,26 @@
+{
+  "name": "@sweatent/askr",
+  "version": "1.0.0",
+  "description": "MCP question-answering assistant with TUI management panel",
+  "type": "module",
+  "bin": {
+    "askr": "./cli.js"
+  },
+  "files": [
+    "cli.js",
+    "src/",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "@inquirer/prompts": "^7.5.0",
+    "chalk": "^5.4.1",
+    "env-paths": "^3.0.0",
+    "chokidar": "^4.0.3"
+  },
+  "keywords": ["mcp", "ai", "question", "assistant"],
+  "license": "MIT"
+}
